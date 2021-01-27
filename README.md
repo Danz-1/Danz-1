@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Danilo</h1>
 <h3 align="center">Programmer with projects for aquaculture and fishing</h3>
 
-- 🌱 I’m currently learning **Python,kivy and simulations**
+- 🐟 I’m currently learning **Python,kivy and simulations**
 
-- 👯 I’m looking to collaborate on **Simulation of aquatic environments**
+- 🦀 I’m looking to collaborate on **Simulation of aquatic environments**
 
-- 📫 How to reach me **danilo.logic@gmail.com**
+- 🦈 How to reach me **danilo.logic@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
