@@ -9,17 +9,15 @@ Bem vindo ao meu Perfil!
 Meu nome é Danilo, sou desenvolvedor Flutter e Python, graduando em bacharelado no curso de Engenharia de Pesca pela Universidade Federal do Maranhão, e estou como voluntario no Laboratorio de Tecnologia Aplicada a Aquicultura e Pesca (TECAAP) como desenvolvedor.
 
 
-Projetos que ajudei a desenvolver no laboratorio:
+ Projetos que ajudei a desenvolver no laboratorio:
 
-1- Aplicação para avaliar o frescor do pescado utilizando modelos de aprendizado de máquina.
+  1- Aplicação para avaliar o frescor do pescado utilizando modelos de aprendizado de máquina.
 
-2- Algoritimo capaz de contar a quantidade de larvas utilizando visão computacional.
+  2- Algoritimo capaz de contar a quantidade de larvas utilizando visão computacional.
 
-3-Algoritimo de visão computacional que permite a realização de biometricas por imagens.
+  3- Algoritimo de visão computacional que permite a realização de biometricas por imagens.
 
-4-Alimentador altomatico que analisa o comportamento dos peixes e detecta o estado de fome.
-
-5-Simulação de sistemas de aquicultura utilizando varias equações que descrevem fenomenos no ambiente de cultivo.
+  4- Simulação de sistemas de aquicultura utilizando varias equações que descrevem fenomenos no ambiente de cultivo.
 
 
 
