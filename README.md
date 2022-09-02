@@ -32,7 +32,7 @@ Atualmente estou graduado com bacharelado no curso de engenharia de pesca e sou 
 ## ⭐️  Projetos atuais  ⭐️
  UI Feita em Flutter aprimorar o conhecimento em widgets!
 https://github.com/Daminhao/ingredients
-https://www.linkedin.com/posts/danilo-oliveira-36a6208b_ap%C3%B3s-ler-o-excelente-artigo-da-amimarinhoux-activity-6970813303233110017-Pegz?utm_source=share&utm_medium=member_desktop
+
 ![alt text](https://github.com/Daminhao/ingredients/blob/master/images/readmeImage.gif "ReadmeImage")
 
 
