@@ -1,9 +1,32 @@
-<h1 align="center">Hi, I'm Danilo</h1>
+<div align="center">
+  <img src="https://github.com/Daminhao/daminhao/blob/main/rowradium.png" />
+</div>
 
-Sou um desenvolvedor e ja desenvolvi soluções utilizando  python, kivy e outras feramentas voltadas para dados, porem atualmente estou aprendendo e utilizando o Flutter na maior parte do tempo. 
-Costumo utilizar meu tempo livre para andar de bicicleta e resolver meu cubo magico 3x3(só por camadas haha). Também gosto muito de fazer pães, mas nada muito profissional. Gosto muito de ler e estudar sobre redes desentralizadas. 
+<h1 align="center">Olá, Eu sou o Danilo!</h1>
 
-Atualmente sou graduando em bacharelado no curso de engenharia de pesca e sou voluntario no laboratorio de tecnologia aplicada a aquicultura e pesca (TECAAP) como desenvolvedor.
+Bem vindo ao meu Perfil!
+
+Meu nome é Danilo, sou desenvolvedor Flutter e Python, graduando em bacharelado no curso de Engenharia de Pesca pela Universidade Federal do Maranhão, e estou como voluntario no Laboratorio de Tecnologia Aplicada a Aquicultura e Pesca (TECAAP) como desenvolvedor.
+
+
+Projetos que ajudei a desenvolver no laboratorio:
+
+1- Aplicação para avaliar o frescor do pescado utilizando modelos de aprendizado de máquina.
+
+2- Algoritimo capaz de contar a quantidade de larvas utilizando visão computacional.
+
+3-Algoritimo de visão computacional que permite a realização de biometricas por imagens.
+
+4-Alimentador altomatico que analisa o comportamento dos peixes e detecta o estado de fome.
+
+5-Simulação de sistemas de aquicultura utilizando varias equações que descrevem fenomenos no ambiente de cultivo.
+
+
+
+No meu tempo livre gosto muito de andar de bicicleta e de fazer pães; nada muito proficional. Além disso, tenho bastante interesse em redes descentralizadas.
+
+<div align="center">
+  <img src="https://github.com/Daminhao/daminhao/blob/main/rowradium.png" />
 
 
 ## ⭐️  Tecnologias que conheço mais  ⭐️
@@ -19,6 +42,8 @@ Atualmente sou graduando em bacharelado no curso de engenharia de pesca e sou vo
 <a href="https://www.android.com/"><img height= "35" src= "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 
 
+  <img src="https://github.com/Daminhao/daminhao/blob/main/rowradium.png" />
+
 ## 🔍  E tecnologias que conheço um pouco menos ou estou estudando  🔍
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -27,7 +52,7 @@ Atualmente sou graduando em bacharelado no curso de engenharia de pesca e sou vo
 <a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 
 
-
+  <img src="https://github.com/Daminhao/daminhao/blob/main/rowradium.png" />
 
 ## ⭐  Projetos atuais  ⭐️
 
@@ -45,5 +70,6 @@ https://github.com/Daminhao/openpix_flutter_demo
 
 
 
-
+  <img src="https://github.com/Daminhao/daminhao/blob/main/endrow.png" />
+</div>
 
