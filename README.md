@@ -3,7 +3,7 @@
 Sou um desenvolvedor e ja desenvolvi soluções utilizando  python, kivy e outras feramentas voltadas para dados, porem atualmente estou aprendendo e utilizando o Flutter na maior parte do tempo. 
 Costumo utilizar meu tempo livre para andar de bicicleta e resolver meu cubo magico 3x3(só por camadas haha). Também gosto muito de fazer pães, mas nada muito profissional. Gosto muito de ler e estudar sobre redes desentralizadas. 
 
-Atualmente estou graduado com bacharelado no curso de engenharia de pesca e sou voluntario no laboratorio de tecnologia aplicada a aquicultura e pesca (TECAAP) como desenvolvedor.
+Atualmente sou graduando em bacharelado no curso de engenharia de pesca e sou voluntario no laboratorio de tecnologia aplicada a aquicultura e pesca (TECAAP) como desenvolvedor.
 
 
 ## ⭐️  Tecnologias que conheço mais  ⭐️
@@ -19,7 +19,7 @@ Atualmente estou graduado com bacharelado no curso de engenharia de pesca e sou 
 <a href="https://www.android.com/"><img height= "35" src= "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 
 
-## 📖  E tecnologias que conheço um pouco menos ou estou estudando  📖
+## 🔍  E tecnologias que conheço um pouco menos ou estou estudando  🔍
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://www.markdownguide.org/"><img height= "35" src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
@@ -29,14 +29,15 @@ Atualmente estou graduado com bacharelado no curso de engenharia de pesca e sou 
 
 
 
-## ⭐️  Projetos atuais  ⭐️
- UI Feita em Flutter aprimorar o conhecimento em widgets!
+## ⭐  Projetos atuais  ⭐️
+
+📘 UI Feito em Flutter para aprimorar o conhecimento em widgets!
 https://github.com/Daminhao/ingredients
 
 ![alt text](https://github.com/Daminhao/ingredients/blob/master/images/readmeImage.gif "ReadmeImage")
 
 
-OpenPix Flutter Integration Example:
+📘 OpenPix Flutter Integration Example:
 https://github.com/Daminhao/openpix_flutter_demo
 ![alt text](https://github.com/Daminhao/openpix_flutter_demo/blob/master/img/openpixdemogif.gif "ReadmeImage")
 
