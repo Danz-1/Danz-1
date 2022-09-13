@@ -65,6 +65,9 @@ https://github.com/Daminhao/openpix_flutter_demo
 ![alt text](https://github.com/Daminhao/openpix_flutter_demo/blob/master/img/openpixdemogif.gif "ReadmeImage")
 
 
+📘 Roll Call Example using QRcode:
+https://github.com/Daminhao/qrcode_example
+![alt text](https://github.com/Daminhao/qrcode_example/blob/master/images/rollcallexample.gif "ReadmeImage")
 
 
 
