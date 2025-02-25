@@ -6,7 +6,7 @@
 
 Bem vindo ao meu Perfil!
 
-Meu nome é Danilo, sou desenvolvedor Flutter e Python, graduando em bacharelado no curso de Engenharia de Pesca pela Universidade Federal do Maranhão, e estou como voluntario no Laboratorio de Tecnologia Aplicada a Aquicultura e Pesca (TECAAP) como desenvolvedor.
+Meu nome é Danilo, sou desenvolvedor Flutter e Python, graduado em bacharelado no curso de Engenharia de Pesca pela Universidade Federal do Maranhão, e estou como voluntario no Laboratorio de Tecnologia Aplicada a Aquicultura e Pesca (TECAAP) como desenvolvedor.
 
 
  Projetos que ajudei a desenvolver no laboratorio:
