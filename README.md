@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia e inovação, com habilidades que vão desde desen
 
 
 ## ⭐️  Tecnologias que conheço mais  ⭐️
-<a href="https://www.tensorflow.org/"><img height= "35" src= "https://img.shields.io/badge/tensorflow-0175C2?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+<a href="https://www.tensorflow.org/"><img height= "35" src= "https://img.shields.io/badge/tensorflow-0175C2?style=for-the-badge&logo=tensorflow&logoColor=orange"></a>
 <a href="https://flutter.dev/"><img height= "35" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="https://firebase.google.com/"><img height= "35" src= "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
